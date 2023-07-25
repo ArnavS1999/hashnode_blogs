@@ -3,7 +3,7 @@ title: "Your CI/CD pipeline on AWS - Part-1"
 datePublished: Tue Jul 25 2023 12:48:02 GMT+0000 (Coordinated Universal Time)
 cuid: clkialhq500040amj63s3ed3k
 slug: your-cicd-pipeline-on-aws-part-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690289161792/f715bd00-46c8-4e7a-9d02-94c9385c6b6f.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690289558432/21d8fc7c-947a-4eb7-b351-c0a830ef601d.png
 tags: aws, opensource, learning, devops, 90daysofdevops
 
 ---
