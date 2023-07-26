@@ -8,7 +8,7 @@ tags: aws, opensource, learning, devops, 90daysofdevops
 
 ---
 
-**Prerequisite:** First You have to install some Prerequisites for this deployment. [**Click here to set up the prerequisite.**](https://rushikesh-mashidkar.hashnode.dev/prerequisite-for-aws-devops-projects)
+**Prerequisite:** First You have to install some Prerequisites for this deployment. [**<mark>Click here to set up the prerequisite.</mark>**](https://arnavdevops.hashnode.dev/prerequisite-for-aws-devops-projects)
 
 # **Introduction**
 
