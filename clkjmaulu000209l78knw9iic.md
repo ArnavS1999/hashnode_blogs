@@ -81,9 +81,9 @@ The `artifacts` section specifies the files that should be included in the outpu
 1. Create a folder named **scripts** & Write **install\_**[**nginx.sh**](http://nginx.sh/) to install **Nginx**
     
     ```yaml
-     #!/bin/bash
-     sudo apt-get update
-     sudo apt-get install -y nginx
+    #!/bin/bash
+    sudo apt-get update
+    sudo apt-get install -y nginx
     ```
     
     This is a simple Bash script that updates the package list of your Ubuntu-based system using the `apt-get` command and installs the Nginx web server using the same command.
@@ -95,8 +95,8 @@ The `artifacts` section specifies the files that should be included in the outpu
 2. write **start\_**[**nginx.sh**](http://nginx.sh/) in scripts folder to start the **Nginx** webserver.
     
     ```yaml
-     #!/bin/bash
-     sudo service nginx start
+    #!/bin/bash
+    sudo service nginx start
     ```
     
     The command `sudo service nginx start` starts the Nginx web server by running the `start` command on the `nginx` service. This command tells the system to launch the Nginx process and start serving web pages.
